@@ -1,5 +1,5 @@
 Основни типове данни в C:
-![data types](.\images\dataTypes.png)
+![data types](\images\dataTypes.png)
 
 # Задачки за седмица 1
 
