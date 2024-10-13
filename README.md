@@ -11,6 +11,8 @@
 ## [Стъпки за инсталиране](https://github.com/Stelllarce/Introduction_To_Programming_2024/tree/main/Prerequisites)
 
 ## Допълнителни ресурси за заинтересованите
-**C Programming Language, 2nd Edition -  Brian W. Kernighan & Dennis M. Ritchie**
-**Understanding and Using Pointers - Richard Reese**
-**C Primer Plus (Developer's Library) 6th Edition - Stephen Prata**
+### Препоръки от мудъл:
+- https://docs.google.com/document/d/1-LX2Sw2fsl370DYHBrwlImxZdkj8eZ-64VjbPh27cbo/edit?tab=t.0
+### Извадки и допълнителни препоръки:
+- **C Programming Language, 2nd Edition** -  Brian W. Kernighan & Dennis M. Ritchie
+- **Understanding and Using Pointers** - Richard Reese
