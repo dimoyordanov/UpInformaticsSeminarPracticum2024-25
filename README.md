@@ -7,6 +7,10 @@
 ### [Седмица 3:](https://github.com/dimoyordanov/UpInformaticsSeminarPracticum2024-25/tree/main/Seminar/Week03) Бройни системи и битови операции
 ### [Седмица 4:](https://github.com/dimoyordanov/UpInformaticsSeminarPracticum2024-25/tree/main/Seminar/Week04) Цикличност
 ### [Седмица misc:](https://github.com/dimoyordanov/UpInformaticsSeminarPracticum2024-25/tree/main/Seminar/Miscellanious) Проверка на вход, изчистване на буфер, функция rand()
+### [Седмица 5:](https://github.com/dimoyordanov/UpInformaticsSeminarPracticum2024-25/tree/main/Seminar/Week05) Цикличност
+### [Седмица 6:](https://github.com/dimoyordanov/UpInformaticsSeminarPracticum2024-25/tree/main/Seminar/Week06) Цикличност
+### [Седмица 7:](https://github.com/dimoyordanov/UpInformaticsSeminarPracticum2024-25/tree/main/Seminar/Week07) Цикличност
+
 
 ## Практикум:
 
@@ -16,7 +20,7 @@
 ### [Седмица 4:](https://github.com/dimoyordanov/UpInformaticsSeminarPracticum2024-25/tree/main/praktikum/week4) Задачи за цикли
 ### [Седмица 5:](https://github.com/dimoyordanov/UpInformaticsSeminarPracticum2024-25/tree/main/praktikum/week5) Задачи
 ### [Седмица 6:](https://github.com/dimoyordanov/UpInformaticsSeminarPracticum2024-25/tree/main/praktikum/week6) Задачи
-### [Седмица 6:](https://github.com/dimoyordanov/UpInformaticsSeminarPracticum2024-25/tree/main/praktikum/week7) Функции
+### [Седмица 7:](https://github.com/dimoyordanov/UpInformaticsSeminarPracticum2024-25/tree/main/praktikum/week7) Функции
 
 ## [Стъпки за инсталиране](https://github.com/Stelllarce/Introduction_To_Programming_2024/tree/main/Prerequisites)
 
