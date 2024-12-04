@@ -7,9 +7,10 @@
 ### [Седмица 3:](https://github.com/dimoyordanov/UpInformaticsSeminarPracticum2024-25/tree/main/Seminar/Week03) Бройни системи и битови операции
 ### [Седмица 4:](https://github.com/dimoyordanov/UpInformaticsSeminarPracticum2024-25/tree/main/Seminar/Week04) Цикличност
 ### [Седмица misc:](https://github.com/dimoyordanov/UpInformaticsSeminarPracticum2024-25/tree/main/Seminar/Miscellanious) Проверка на вход, изчистване на буфер, функция rand()
-### [Седмица 5:](https://github.com/dimoyordanov/UpInformaticsSeminarPracticum2024-25/tree/main/Seminar/Week05) Цикличност
-### [Седмица 6:](https://github.com/dimoyordanov/UpInformaticsSeminarPracticum2024-25/tree/main/Seminar/Week06) Цикличност
-### [Седмица 7:](https://github.com/dimoyordanov/UpInformaticsSeminarPracticum2024-25/tree/main/Seminar/Week07) Цикличност
+### [Седмица 5:](https://github.com/dimoyordanov/UpInformaticsSeminarPracticum2024-25/tree/main/Seminar/Week05) Функции
+### [Седмица 6:](https://github.com/dimoyordanov/UpInformaticsSeminarPracticum2024-25/tree/main/Seminar/Week06) Едномерни масиви
+### [Седмица 7:](https://github.com/dimoyordanov/UpInformaticsSeminarPracticum2024-25/tree/main/Seminar/Week07) Многомерни масиви
+### [Седмица 7:](https://github.com/dimoyordanov/UpInformaticsSeminarPracticum2024-25/tree/main/Seminar/Week07) Алгоритми за сортиране и търсене
 
 
 ## Практикум:
