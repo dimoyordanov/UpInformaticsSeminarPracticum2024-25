@@ -73,6 +73,7 @@ OUT:
 - Раждане - Мъртва клетка оживява, ако има точно 3 живи съседа.
 Да се реализира функция, която играе играта като приема като аргумент финалното поколение.
 [За повече информация](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+
 ![glider_gun](https://upload.wikimedia.org/wikipedia/commons/e/e5/Gospers_glider_gun.gif)
 
 ```c
